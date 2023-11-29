@@ -1,0 +1,14 @@
+.ImageCollectionContainer{
+
+display: flex;
+flex-wrap: wrap;
+gap: 1em;
+
+>img{
+
+width: 250px;
+
+object-fit: cover;
+}
+
+}
